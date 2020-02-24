@@ -1,0 +1,12 @@
+.faqBox{
+	cursor:pointer;
+}
+.cta .nav-link.active::after {
+    background: none !important;
+}
+.bg-custom {
+    background-image: -moz-linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    background-image: -webkit-linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    background-image: -ms-linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+}
